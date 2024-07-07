@@ -1,3 +1,4 @@
+#for_reference
 mkdir -p ~/.streamlit/
 
 echo "\
